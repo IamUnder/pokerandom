@@ -1,0 +1,1073 @@
+[
+    {
+        "id": 722,
+        "name": "rowlet",
+        "moves": 62,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png",
+        "evo": [723]
+      },
+      {
+        "id": 723,
+        "name": "dartrix",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png",
+        "preevo": "722",
+        "evo": [724, 10244]
+      },
+      {
+        "id": 724,
+        "name": "decidueye",
+        "moves": 80,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png",
+        "preevo": "723",
+        "evo": null
+      },
+      {
+        "id": 725,
+        "name": "litten",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png",
+        "evo": [726]
+      },
+      {
+        "id": 726,
+        "name": "torracat",
+        "moves": 56,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/726.png",
+        "preevo": "725",
+        "evo": [727]
+      },
+      {
+        "id": 727,
+        "name": "incineroar",
+        "moves": 94,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png",
+        "preevo": "726",
+        "evo": null
+      },
+      {
+        "id": 728,
+        "name": "popplio",
+        "moves": 63,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png",
+        "evo": [729]
+      },
+      {
+        "id": 729,
+        "name": "brionne",
+        "moves": 59,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/729.png",
+        "preevo": "728",
+        "evo": [730]
+      },
+      {
+        "id": 730,
+        "name": "primarina",
+        "moves": 76,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png",
+        "preevo": "729",
+        "evo": null
+      },
+      {
+        "id": 731,
+        "name": "pikipek",
+        "moves": 48,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/731.png",
+        "evo": [732]
+      },
+      {
+        "id": 732,
+        "name": "trumbeak",
+        "moves": 46,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/732.png",
+        "preevo": "731",
+        "evo": [733]
+      },
+      {
+        "id": 733,
+        "name": "toucannon",
+        "moves": 50,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png",
+        "preevo": "732",
+        "evo": null
+      },
+      {
+        "id": 734,
+        "name": "yungoos",
+        "moves": 50,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/734.png",
+        "evo": [735, 10121]
+      },
+      {
+        "id": 735,
+        "name": "gumshoos",
+        "moves": 56,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png",
+        "preevo": "734",
+        "evo": null
+      },
+      {
+        "id": 736,
+        "name": "grubbin",
+        "moves": 44,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/736.png",
+        "evo": [737]
+      },
+      {
+        "id": 737,
+        "name": "charjabug",
+        "moves": 47,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/737.png",
+        "preevo": "736",
+        "evo": [738, 10122]
+      },
+      {
+        "id": 738,
+        "name": "vikavolt",
+        "moves": 64,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png",
+        "preevo": "737",
+        "evo": null
+      },
+      {
+        "id": 739,
+        "name": "crabrawler",
+        "moves": 55,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/739.png",
+        "evo": [740]
+      },
+      {
+        "id": 740,
+        "name": "crabominable",
+        "moves": 60,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png",
+        "preevo": "739",
+        "evo": null
+      },
+      {
+        "id": 741,
+        "name": "oricorio-baile",
+        "moves": 51,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741.png",
+        "evo": null
+      },
+      {
+        "id": 742,
+        "name": "cutiefly",
+        "moves": 71,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/742.png",
+        "evo": [743, 10150]
+      },
+      {
+        "id": 743,
+        "name": "ribombee",
+        "moves": 72,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png",
+        "preevo": "742",
+        "evo": null
+      },
+      {
+        "id": 744,
+        "name": "rockruff",
+        "moves": 52,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/744.png",
+        "evo": [745, 10126, 10152]
+      },
+      {
+        "id": 745,
+        "name": "lycanroc-midday",
+        "moves": 65,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745.png",
+        "preevo": "744",
+        "evo": null
+      },
+      {
+        "id": 746,
+        "name": "wishiwashi-solo",
+        "moves": 52,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/746.png",
+        "evo": null
+      },
+      {
+        "id": 747,
+        "name": "mareanie",
+        "moves": 60,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/747.png",
+        "evo": [748]
+      },
+      {
+        "id": 748,
+        "name": "toxapex",
+        "moves": 62,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png",
+        "preevo": "747",
+        "evo": null
+      },
+      {
+        "id": 749,
+        "name": "mudbray",
+        "moves": 52,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/749.png",
+        "evo": [750]
+      },
+      {
+        "id": 750,
+        "name": "mudsdale",
+        "moves": 55,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png",
+        "preevo": "749",
+        "evo": null
+      },
+      {
+        "id": 751,
+        "name": "dewpider",
+        "moves": 57,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png",
+        "evo": [752, 10153]
+      },
+      {
+        "id": 752,
+        "name": "araquanid",
+        "moves": 57,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/752.png",
+        "preevo": "751",
+        "evo": null
+      },
+      {
+        "id": 753,
+        "name": "fomantis",
+        "moves": 51,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png",
+        "evo": [754, 10128]
+      },
+      {
+        "id": 754,
+        "name": "lurantis",
+        "moves": 64,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png",
+        "preevo": "753",
+        "evo": null
+      },
+      {
+        "id": 755,
+        "name": "morelull",
+        "moves": 56,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/755.png",
+        "evo": [756]
+      },
+      {
+        "id": 756,
+        "name": "shiinotic",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png",
+        "preevo": "755",
+        "evo": null
+      },
+      {
+        "id": 757,
+        "name": "salandit",
+        "moves": 64,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/757.png",
+        "evo": [758, 10129]
+      },
+      {
+        "id": 758,
+        "name": "salazzle",
+        "moves": 74,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png",
+        "preevo": "757",
+        "evo": null
+      },
+      {
+        "id": 759,
+        "name": "stufful",
+        "moves": 62,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/759.png",
+        "evo": [760]
+      },
+      {
+        "id": 760,
+        "name": "bewear",
+        "moves": 70,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/760.png",
+        "preevo": "759",
+        "evo": null
+      },
+      {
+        "id": 761,
+        "name": "bounsweet",
+        "moves": 51,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/761.png",
+        "evo": [762]
+      },
+      {
+        "id": 762,
+        "name": "steenee",
+        "moves": 57,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/762.png",
+        "preevo": "761",
+        "evo": [763]
+      },
+      {
+        "id": 763,
+        "name": "tsareena",
+        "moves": 70,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png",
+        "preevo": "762",
+        "evo": null
+      },
+      {
+        "id": 764,
+        "name": "comfey",
+        "moves": 76,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png",
+        "evo": null
+      },
+      {
+        "id": 765,
+        "name": "oranguru",
+        "moves": 79,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png",
+        "evo": null
+      },
+      {
+        "id": 766,
+        "name": "passimian",
+        "moves": 81,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/766.png",
+        "evo": null
+      },
+      {
+        "id": 767,
+        "name": "wimpod",
+        "moves": 38,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/767.png",
+        "evo": [768]
+      },
+      {
+        "id": 768,
+        "name": "golisopod",
+        "moves": 81,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png",
+        "preevo": "767",
+        "evo": null
+      },
+      {
+        "id": 769,
+        "name": "sandygast",
+        "moves": 60,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png",
+        "evo": [770]
+      },
+      {
+        "id": 770,
+        "name": "palossand",
+        "moves": 59,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png",
+        "preevo": "769",
+        "evo": null
+      },
+      {
+        "id": 771,
+        "name": "pyukumuku",
+        "moves": 40,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/771.png",
+        "evo": null
+      },
+      {
+        "id": 772,
+        "name": "type-null",
+        "moves": 56,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/772.png",
+        "evo": [773]
+      },
+      {
+        "id": 773,
+        "name": "silvally",
+        "moves": 88,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png",
+        "preevo": "772",
+        "evo": null
+      },
+      {
+        "id": 774,
+        "name": "minior-red-meteor",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png",
+        "evo": null
+      },
+      {
+        "id": 775,
+        "name": "komala",
+        "moves": 53,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png",
+        "evo": null
+      },
+      {
+        "id": 776,
+        "name": "turtonator",
+        "moves": 80,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/776.png",
+        "evo": null
+      },
+      {
+        "id": 777,
+        "name": "togedemaru",
+        "moves": 78,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png",
+        "evo": null
+      },
+      {
+        "id": 778,
+        "name": "mimikyu-disguised",
+        "moves": 78,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png",
+        "evo": null
+      },
+      {
+        "id": 779,
+        "name": "bruxish",
+        "moves": 67,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png",
+        "evo": null
+      },
+      {
+        "id": 780,
+        "name": "drampa",
+        "moves": 88,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png",
+        "evo": null
+      },
+      {
+        "id": 781,
+        "name": "dhelmise",
+        "moves": 76,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/781.png",
+        "evo": null
+      },
+      {
+        "id": 782,
+        "name": "jangmo-o",
+        "moves": 61,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png",
+        "evo": [783]
+      },
+      {
+        "id": 783,
+        "name": "hakamo-o",
+        "moves": 66,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/783.png",
+        "preevo": "782",
+        "evo": [784, 10146]
+      },
+      {
+        "id": 784,
+        "name": "kommo-o",
+        "moves": 92,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png",
+        "preevo": "783",
+        "evo": null
+      },
+      {
+        "id": 785,
+        "name": "tapu-koko",
+        "moves": 74,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png",
+        "evo": null
+      },
+      {
+        "id": 786,
+        "name": "tapu-lele",
+        "moves": 71,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/786.png",
+        "evo": null
+      },
+      {
+        "id": 787,
+        "name": "tapu-bulu",
+        "moves": 81,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png",
+        "evo": null
+      },
+      {
+        "id": 788,
+        "name": "tapu-fini",
+        "moves": 71,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png",
+        "evo": null
+      },
+      {
+        "id": 789,
+        "name": "cosmog",
+        "moves": 2,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png",
+        "evo": [790]
+      },
+      {
+        "id": 790,
+        "name": "cosmoem",
+        "moves": 2,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png",
+        "preevo": "789",
+        "evo": [791, 792]
+      },
+      {
+        "id": 791,
+        "name": "solgaleo",
+        "moves": 83,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/791.png",
+        "preevo": "790",
+        "evo": null
+      },
+      {
+        "id": 792,
+        "name": "lunala",
+        "moves": 83,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png",
+        "preevo": "790",
+        "evo": null
+      },
+      {
+        "id": 793,
+        "name": "nihilego",
+        "moves": 72,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/793.png",
+        "evo": null
+      },
+      {
+        "id": 794,
+        "name": "buzzwole",
+        "moves": 65,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png",
+        "evo": null
+      },
+      {
+        "id": 795,
+        "name": "pheromosa",
+        "moves": 66,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/795.png",
+        "evo": null
+      },
+      {
+        "id": 796,
+        "name": "xurkitree",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/796.png",
+        "evo": null
+      },
+      {
+        "id": 797,
+        "name": "celesteela",
+        "moves": 65,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/797.png",
+        "evo": null
+      },
+      {
+        "id": 798,
+        "name": "kartana",
+        "moves": 45,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png",
+        "evo": null
+      },
+      {
+        "id": 799,
+        "name": "guzzlord",
+        "moves": 76,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png",
+        "evo": null
+      },
+      {
+        "id": 800,
+        "name": "necrozma",
+        "moves": 85,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png",
+        "evo": null
+      },
+      {
+        "id": 801,
+        "name": "magearna",
+        "moves": 82,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png",
+        "evo": null
+      },
+      {
+        "id": 802,
+        "name": "marshadow",
+        "moves": 84,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png",
+        "evo": null
+      },
+      {
+        "id": 803,
+        "name": "poipole",
+        "moves": 37,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/803.png",
+        "evo": [804]
+      },
+      {
+        "id": 804,
+        "name": "naganadel",
+        "moves": 77,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/804.png",
+        "preevo": "803",
+        "evo": null
+      },
+      {
+        "id": 805,
+        "name": "stakataka",
+        "moves": 66,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/805.png",
+        "evo": null
+      },
+      {
+        "id": 806,
+        "name": "blacephalon",
+        "moves": 66,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png",
+        "evo": null
+      },
+      {
+        "id": 807,
+        "name": "zeraora",
+        "moves": 83,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png",
+        "evo": null
+      },
+      {
+        "id": 808,
+        "name": "meltan",
+        "moves": 20,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/808.png",
+        "evo": null
+      },
+      {
+        "id": 809,
+        "name": "melmetal",
+        "moves": 47,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png",
+        "evo": null
+      },
+      {
+        "id": 10091,
+        "name": "rattata-alola",
+        "moves": 63,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10091.png",
+        "evo": null
+      },
+      {
+        "id": 10092,
+        "name": "raticate-alola",
+        "moves": 67,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10092.png",
+        "preevo": "19",
+        "evo": null
+      },
+      {
+        "id": 10093,
+        "name": "raticate-totem-alola",
+        "moves": 63,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10093.png",
+        "preevo": "19",
+        "evo": null
+      },
+      {
+        "id": 10100,
+        "name": "raichu-alola",
+        "moves": 90,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10100.png",
+        "preevo": "25",
+        "evo": null
+      },
+      {
+        "id": 10101,
+        "name": "sandshrew-alola",
+        "moves": 83,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10101.png",
+        "evo": null
+      },
+      {
+        "id": 10102,
+        "name": "sandslash-alola",
+        "moves": 84,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10102.png",
+        "preevo": "27",
+        "evo": null
+      },
+      {
+        "id": 10103,
+        "name": "vulpix-alola",
+        "moves": 72,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10103.png",
+        "evo": null
+      },
+      {
+        "id": 10104,
+        "name": "ninetales-alola",
+        "moves": 78,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10104.png",
+        "preevo": "37",
+        "evo": null
+      },
+      {
+        "id": 10105,
+        "name": "diglett-alola",
+        "moves": 66,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10105.png",
+        "evo": null
+      },
+      {
+        "id": 10106,
+        "name": "dugtrio-alola",
+        "moves": 67,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10106.png",
+        "preevo": "50",
+        "evo": null
+      },
+      {
+        "id": 10107,
+        "name": "meowth-alola",
+        "moves": 79,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10107.png",
+        "evo": null
+      },
+      {
+        "id": 10108,
+        "name": "persian-alola",
+        "moves": 84,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10108.png",
+        "preevo": "52",
+        "evo": null
+      },
+      {
+        "id": 10109,
+        "name": "geodude-alola",
+        "moves": 71,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10109.png",
+        "evo": null
+      },
+      {
+        "id": 10110,
+        "name": "graveler-alola",
+        "moves": 66,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10110.png",
+        "preevo": "74",
+        "evo": null
+      },
+      {
+        "id": 10111,
+        "name": "golem-alola",
+        "moves": 75,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10111.png",
+        "preevo": "75",
+        "evo": null
+      },
+      {
+        "id": 10112,
+        "name": "grimer-alola",
+        "moves": 79,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10112.png",
+        "evo": null
+      },
+      {
+        "id": 10113,
+        "name": "muk-alola",
+        "moves": 79,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10113.png",
+        "preevo": "88",
+        "evo": null
+      },
+      {
+        "id": 10114,
+        "name": "exeggutor-alola",
+        "moves": 83,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10114.png",
+        "preevo": "102",
+        "evo": null
+      },
+      {
+        "id": 10115,
+        "name": "marowak-alola",
+        "moves": 97,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10115.png",
+        "preevo": "104",
+        "evo": null
+      },
+      {
+        "id": 10116,
+        "name": "greninja-battle-bond",
+        "moves": 63,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10116.png",
+        "preevo": "657",
+        "evo": null
+      },
+      {
+        "id": 10117,
+        "name": "greninja-ash",
+        "moves": 63,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10117.png",
+        "preevo": "657",
+        "evo": null
+      },
+      {
+        "id": 10121,
+        "name": "gumshoos-totem",
+        "moves": 56,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10121.png",
+        "preevo": "734",
+        "evo": null
+      },
+      {
+        "id": 10122,
+        "name": "vikavolt-totem",
+        "moves": 52,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10122.png",
+        "preevo": "737",
+        "evo": null
+      },
+      {
+        "id": 10123,
+        "name": "oricorio-pom-pom",
+        "moves": 51,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10123.png",
+        "evo": null
+      },
+      {
+        "id": 10124,
+        "name": "oricorio-pau",
+        "moves": 51,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10124.png",
+        "evo": null
+      },
+      {
+        "id": 10125,
+        "name": "oricorio-sensu",
+        "moves": 51,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10125.png",
+        "evo": null
+      },
+      {
+        "id": 10126,
+        "name": "lycanroc-midnight",
+        "moves": 73,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10126.png",
+        "preevo": "744",
+        "evo": null
+      },
+      {
+        "id": 10127,
+        "name": "wishiwashi-school",
+        "moves": 52,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10127.png",
+        "evo": null
+      },
+      {
+        "id": 10128,
+        "name": "lurantis-totem",
+        "moves": 55,
+        "sprite": null,
+        "preevo": "753",
+        "evo": null
+      },
+      {
+        "id": 10129,
+        "name": "salazzle-totem",
+        "moves": 57,
+        "sprite": null,
+        "preevo": "757",
+        "evo": null
+      },
+      {
+        "id": 10130,
+        "name": "minior-orange-meteor",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10130.png",
+        "evo": null
+      },
+      {
+        "id": 10131,
+        "name": "minior-yellow-meteor",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10131.png",
+        "evo": null
+      },
+      {
+        "id": 10132,
+        "name": "minior-green-meteor",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10132.png",
+        "evo": null
+      },
+      {
+        "id": 10133,
+        "name": "minior-blue-meteor",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10133.png",
+        "evo": null
+      },
+      {
+        "id": 10134,
+        "name": "minior-indigo-meteor",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10134.png",
+        "evo": null
+      },
+      {
+        "id": 10135,
+        "name": "minior-violet-meteor",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10135.png",
+        "evo": null
+      },
+      {
+        "id": 10136,
+        "name": "minior-red",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10136.png",
+        "evo": null
+      },
+      {
+        "id": 10137,
+        "name": "minior-orange",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10137.png",
+        "evo": null
+      },
+      {
+        "id": 10138,
+        "name": "minior-yellow",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10138.png",
+        "evo": null
+      },
+      {
+        "id": 10139,
+        "name": "minior-green",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10139.png",
+        "evo": null
+      },
+      {
+        "id": 10140,
+        "name": "minior-blue",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10140.png",
+        "evo": null
+      },
+      {
+        "id": 10141,
+        "name": "minior-indigo",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10141.png",
+        "evo": null
+      },
+      {
+        "id": 10142,
+        "name": "minior-violet",
+        "moves": 58,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10142.png",
+        "evo": null
+      },
+      {
+        "id": 10143,
+        "name": "mimikyu-busted",
+        "moves": 79,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10143.png",
+        "evo": null
+      },
+      {
+        "id": 10144,
+        "name": "mimikyu-totem-disguised",
+        "moves": 66,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10144.png",
+        "evo": null
+      },
+      {
+        "id": 10145,
+        "name": "mimikyu-totem-busted",
+        "moves": 67,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10145.png",
+        "evo": null
+      },
+      {
+        "id": 10146,
+        "name": "kommo-o-totem",
+        "moves": 80,
+        "sprite": null,
+        "preevo": "783",
+        "evo": null
+      },
+      {
+        "id": 10147,
+        "name": "magearna-original",
+        "moves": 82,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10147.png",
+        "evo": null
+      },
+      {
+        "id": 10149,
+        "name": "marowak-totem",
+        "moves": 79,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10149.png",
+        "preevo": "104",
+        "evo": null
+      },
+      {
+        "id": 10150,
+        "name": "ribombee-totem",
+        "moves": 59,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10150.png",
+        "preevo": "742",
+        "evo": null
+      },
+      {
+        "id": 10151,
+        "name": "rockruff-own-tempo",
+        "moves": 52,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10151.png",
+        "evo": null
+      },
+      {
+        "id": 10152,
+        "name": "lycanroc-dusk",
+        "moves": 69,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10152.png",
+        "preevo": "744",
+        "evo": null
+      },
+      {
+        "id": 10153,
+        "name": "araquanid-totem",
+        "moves": 50,
+        "sprite": null,
+        "preevo": "751",
+        "evo": null
+      },
+      {
+        "id": 10154,
+        "name": "togedemaru-totem",
+        "moves": 68,
+        "sprite": null,
+        "evo": null
+      },
+      {
+        "id": 10155,
+        "name": "necrozma-dusk",
+        "moves": 85,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10155.png",
+        "evo": null
+      },
+      {
+        "id": 10156,
+        "name": "necrozma-dawn",
+        "moves": 85,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10156.png",
+        "evo": null
+      },
+      {
+        "id": 10157,
+        "name": "necrozma-ultra",
+        "moves": 75,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10157.png",
+        "evo": null
+      }
+]

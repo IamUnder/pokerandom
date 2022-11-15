@@ -1,0 +1,217 @@
+[
+
+  {
+    "id": 899,
+    "name": "wyrdeer",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "234",
+    "evo": null
+  },
+  {
+    "id": 900,
+    "name": "kleavor",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "123",
+    "evo": null
+  },
+  {
+    "id": 901,
+    "name": "ursaluna",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "217",
+    "evo": null
+  },
+  {
+    "id": 902,
+    "name": "basculegion-male",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "550",
+    "evo": null
+  },
+  {
+    "id": 903,
+    "name": "sneasler",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "215",
+    "evo": null
+  },
+  {
+    "id": 904,
+    "name": "overqwil",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "211",
+    "evo": null
+  },
+  {
+    "id": 905,
+    "name": "enamorus-incarnate",
+    "moves": 0,
+    "sprite": null,
+    "evo": null
+  },
+  {
+    "id": 10229,
+    "name": "growlithe-hisui",
+    "moves": 0,
+    "sprite": null,
+    "evo": null
+  },
+  {
+    "id": 10230,
+    "name": "arcanine-hisui",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "58",
+    "evo": null
+  },
+  {
+    "id": 10231,
+    "name": "voltorb-hisui",
+    "moves": 0,
+    "sprite": null,
+    "evo": null
+  },
+  {
+    "id": 10232,
+    "name": "electrode-hisui",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "100",
+    "evo": null
+  },
+  {
+    "id": 10233,
+    "name": "typhlosion-hisui",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "156",
+    "evo": null
+  },
+  {
+    "id": 10234,
+    "name": "qwilfish-hisui",
+    "moves": 0,
+    "sprite": null,
+    "evo": null
+  },
+  {
+    "id": 10235,
+    "name": "sneasel-hisui",
+    "moves": 0,
+    "sprite": null,
+    "evo": null
+  },
+  {
+    "id": 10236,
+    "name": "samurott-hisui",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "502",
+    "evo": null
+  },
+  {
+    "id": 10237,
+    "name": "lilligant-hisui",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "548",
+    "evo": null
+  },
+  {
+    "id": 10238,
+    "name": "zorua-hisui",
+    "moves": 0,
+    "sprite": null,
+    "evo": null
+  },
+  {
+    "id": 10239,
+    "name": "zoroark-hisui",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "570",
+    "evo": null
+  },
+  {
+    "id": 10240,
+    "name": "braviary-hisui",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "627",
+    "evo": null
+  },
+  {
+    "id": 10241,
+    "name": "sliggoo-hisui",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "704",
+    "evo": null
+  },
+  {
+    "id": 10242,
+    "name": "goodra-hisui",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "705",
+    "evo": null
+  },
+  {
+    "id": 10243,
+    "name": "avalugg-hisui",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "712",
+    "evo": null
+  },
+  {
+    "id": 10244,
+    "name": "decidueye-hisui",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "723",
+    "evo": null
+  },
+  {
+    "id": 10245,
+    "name": "dialga-origin",
+    "moves": 0,
+    "sprite": null,
+    "evo": null
+  },
+  {
+    "id": 10246,
+    "name": "palkia-origin",
+    "moves": 0,
+    "sprite": null,
+    "evo": null
+  },
+  {
+    "id": 10247,
+    "name": "basculin-white-striped",
+    "moves": 0,
+    "sprite": null,
+    "evo": null
+  },
+  {
+    "id": 10248,
+    "name": "basculegion-female",
+    "moves": 0,
+    "sprite": null,
+    "preevo": "550",
+    "evo": null
+  },
+  {
+    "id": 10249,
+    "name": "enamorus-therian",
+    "moves": 0,
+    "sprite": null,
+    "evo": null
+  }
+]

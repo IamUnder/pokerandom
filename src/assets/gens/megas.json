@@ -1,0 +1,393 @@
+[
+  {
+    "id": 10033,
+    "name": "venusaur-mega",
+    "moves": 66,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10033.png",
+    "preevo": "2",
+    "evo": null
+  },
+  {
+    "id": 10034,
+    "name": "charizard-mega-x",
+    "moves": 83,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10034.png",
+    "preevo": "5",
+    "evo": null
+  },
+  {
+    "id": 10035,
+    "name": "charizard-mega-y",
+    "moves": 83,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10035.png",
+    "preevo": "5",
+    "evo": null
+  },
+  {
+    "id": 10036,
+    "name": "blastoise-mega",
+    "moves": 73,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10036.png",
+    "preevo": "8",
+    "evo": null
+  },
+  {
+    "id": 10037,
+    "name": "alakazam-mega",
+    "moves": 81,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10037.png",
+    "preevo": "64",
+    "evo": null
+  },
+  {
+    "id": 10038,
+    "name": "gengar-mega",
+    "moves": 87,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10038.png",
+    "preevo": "93",
+    "evo": null
+  },
+  {
+    "id": 10039,
+    "name": "kangaskhan-mega",
+    "moves": 94,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10039.png",
+    "evo": null
+  },
+  {
+    "id": 10040,
+    "name": "pinsir-mega",
+    "moves": 69,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10040.png",
+    "evo": null
+  },
+  {
+    "id": 10041,
+    "name": "gyarados-mega",
+    "moves": 70,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10041.png",
+    "preevo": "129",
+    "evo": null
+  },
+  {
+    "id": 10042,
+    "name": "aerodactyl-mega",
+    "moves": 78,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10042.png",
+    "evo": null
+  },
+  {
+    "id": 10043,
+    "name": "mewtwo-mega-x",
+    "moves": 115,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10043.png",
+    "evo": null
+  },
+  {
+    "id": 10044,
+    "name": "mewtwo-mega-y",
+    "moves": 115,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+    "evo": null
+  },
+  {
+    "id": 10045,
+    "name": "ampharos-mega",
+    "moves": 64,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10045.png",
+    "preevo": "180",
+    "evo": null
+  },
+  {
+    "id": 10046,
+    "name": "scizor-mega",
+    "moves": 62,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10046.png",
+    "preevo": "123",
+    "evo": null
+  },
+  {
+    "id": 10047,
+    "name": "heracross-mega",
+    "moves": 75,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10047.png",
+    "evo": null
+  },
+  {
+    "id": 10048,
+    "name": "houndoom-mega",
+    "moves": 64,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10048.png",
+    "preevo": "228",
+    "evo": null
+  },
+  {
+    "id": 10049,
+    "name": "tyranitar-mega",
+    "moves": 89,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10049.png",
+    "preevo": "247",
+    "evo": null
+  },
+  {
+    "id": 10050,
+    "name": "blaziken-mega",
+    "moves": 80,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10050.png",
+    "preevo": "256",
+    "evo": null
+  },
+  {
+    "id": 10051,
+    "name": "gardevoir-mega",
+    "moves": 81,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10051.png",
+    "preevo": "281",
+    "evo": null
+  },
+  {
+    "id": 10052,
+    "name": "mawile-mega",
+    "moves": 91,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10052.png",
+    "evo": null
+  },
+  {
+    "id": 10053,
+    "name": "aggron-mega",
+    "moves": 92,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10053.png",
+    "preevo": "305",
+    "evo": null
+  },
+  {
+    "id": 10054,
+    "name": "medicham-mega",
+    "moves": 75,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10054.png",
+    "preevo": "307",
+    "evo": null
+  },
+  {
+    "id": 10055,
+    "name": "manectric-mega",
+    "moves": 51,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10055.png",
+    "preevo": "309",
+    "evo": null
+  },
+  {
+    "id": 10056,
+    "name": "banette-mega",
+    "moves": 67,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10056.png",
+    "preevo": "353",
+    "evo": null
+  },
+  {
+    "id": 10057,
+    "name": "absol-mega",
+    "moves": 98,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10057.png",
+    "evo": null
+  },
+  {
+    "id": 10058,
+    "name": "garchomp-mega",
+    "moves": 66,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10058.png",
+    "preevo": "444",
+    "evo": null
+  },
+  {
+    "id": 10059,
+    "name": "lucario-mega",
+    "moves": 76,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10059.png",
+    "preevo": "447",
+    "evo": null
+  },
+  {
+    "id": 10060,
+    "name": "abomasnow-mega",
+    "moves": 62,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10060.png",
+    "preevo": "459",
+    "evo": null
+  },
+  {
+    "id": 10062,
+    "name": "latias-mega",
+    "moves": 87,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10062.png",
+    "evo": null
+  },
+  {
+    "id": 10063,
+    "name": "latios-mega",
+    "moves": 83,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10063.png",
+    "evo": null
+  },
+  {
+    "id": 10064,
+    "name": "swampert-mega",
+    "moves": 69,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10064.png",
+    "preevo": "259",
+    "evo": null
+  },
+  {
+    "id": 10065,
+    "name": "sceptile-mega",
+    "moves": 80,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10065.png",
+    "preevo": "253",
+    "evo": null
+  },
+  {
+    "id": 10066,
+    "name": "sableye-mega",
+    "moves": 93,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10066.png",
+    "evo": null
+  },
+  {
+    "id": 10067,
+    "name": "altaria-mega",
+    "moves": 69,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10067.png",
+    "preevo": "333",
+    "evo": null
+  },
+  {
+    "id": 10068,
+    "name": "gallade-mega",
+    "moves": 101,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10068.png",
+    "preevo": "281",
+    "evo": null
+  },
+  {
+    "id": 10069,
+    "name": "audino-mega",
+    "moves": 101,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10069.png",
+    "evo": null
+  },
+  {
+    "id": 10070,
+    "name": "sharpedo-mega",
+    "moves": 64,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10070.png",
+    "preevo": "318",
+    "evo": null
+  },
+  {
+    "id": 10071,
+    "name": "slowbro-mega",
+    "moves": 88,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10071.png",
+    "preevo": "79",
+    "evo": null
+  },
+  {
+    "id": 10072,
+    "name": "steelix-mega",
+    "moves": 68,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10072.png",
+    "preevo": "95",
+    "evo": null
+  },
+  {
+    "id": 10073,
+    "name": "pidgeot-mega",
+    "moves": 48,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10073.png",
+    "preevo": "17",
+    "evo": null
+  },
+  {
+    "id": 10074,
+    "name": "glalie-mega",
+    "moves": 52,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10074.png",
+    "preevo": "361",
+    "evo": null
+  },
+  {
+    "id": 10075,
+    "name": "diancie-mega",
+    "moves": 62,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10075.png",
+    "evo": null
+  },
+  {
+    "id": 10076,
+    "name": "metagross-mega",
+    "moves": 70,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10076.png",
+    "preevo": "375",
+    "evo": null
+  },
+  {
+    "id": 10077,
+    "name": "kyogre-primal",
+    "moves": 58,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10077.png",
+    "evo": null
+  },
+  {
+    "id": 10078,
+    "name": "groudon-primal",
+    "moves": 72,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10078.png",
+    "evo": null
+  },
+  {
+    "id": 10079,
+    "name": "rayquaza-mega",
+    "moves": 81,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10079.png",
+    "evo": null
+  },
+  {
+    "id": 10086,
+    "name": "hoopa-unbound",
+    "moves": 81,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10086.png",
+    "evo": null
+  },
+  {
+    "id": 10087,
+    "name": "camerupt-mega",
+    "moves": 60,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10087.png",
+    "preevo": "322",
+    "evo": null
+  },
+  {
+    "id": 10088,
+    "name": "lopunny-mega",
+    "moves": 77,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10088.png",
+    "preevo": "427",
+    "evo": null
+  },
+  {
+    "id": 10089,
+    "name": "salamence-mega",
+    "moves": 65,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10089.png",
+    "preevo": "372",
+    "evo": null
+  },
+  {
+    "id": 10090,
+    "name": "beedrill-mega",
+    "moves": 64,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10090.png",
+    "preevo": "14",
+    "evo": null
+  }
+]
