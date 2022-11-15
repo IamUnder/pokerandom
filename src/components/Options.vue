@@ -119,6 +119,19 @@
 </template>
 
 <script>
+import gen1 from '../assets/gens/gen1.json'
+import gen2 from '../assets/gens/gen2.json'
+import gen3 from '../assets/gens/gen3.json'
+import gen4 from '../assets/gens/gen4.json'
+import gen5 from '../assets/gens/gen5.json'
+import gen6 from '../assets/gens/gen6.json'
+import gen7 from '../assets/gens/gen7.json'
+import gen8 from '../assets/gens/gen8.json'
+import gHisui from '../assets/gens/hisui.json'
+import gMegas from '../assets/gens/megas.json'
+
+
+
 export default {
     data() {
         return {
@@ -129,11 +142,26 @@ export default {
             mega: false,
             numObj: 10,
             numPok: 30,
+            errorMsg: '',
+            pokemon: [],
             options: {
                 idiom: 'Español',
                 generate: []
             }
         }
+    },
+    created() {
+        this.pokemon.push(gen1)
+        this.pokemon.push(gen2)
+        this.pokemon.push(gen3)
+        this.pokemon.push(gen4)
+        this.pokemon.push(gen5)
+        this.pokemon.push(gen6)
+        this.pokemon.push(gen7)
+        this.pokemon.push(gen8)
+        this.pokemon.push(gMegas)
+        this.pokemon.push(gHisui)
+        console.log(this.pokemon.length);
     },
     methods: {
         accept() {
@@ -142,7 +170,26 @@ export default {
             console.log({opciones: this.options});
         },
         test() {
-            console.log(this.gens, this.mega, this.hisui, this.numObj, this.numPok);
+            let total = []
+            // Comprobamos que al menos ha marcado alguna generacion
+            this.gens.filter(item => item == true)
+            // Cargamos los ficheros de las generaciones que se hayan seleccionado
+            this.gens.forEach((item, key) => {
+                total = total.concat(this.pokemon[key])
+            });
+            if (this.hisui) total = total.concat(gHisui) 
+            if (this.mega) total = total.concat(gMegas) 
+            
+            if (total.length == 0) return this.errorMsg = '100'
+
+            // Generamos los pokemons segun el numero introducido
+            while (this.options.generate.length < this.numPok) {
+                let random = Math.floor(Math.random() * total.length)
+
+                this.options.generate.push(total[random])
+            }
+
+            console.table(this.options.generate);
         }
 
     }
