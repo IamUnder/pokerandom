@@ -109,7 +109,7 @@
                         <div class="px-4 py-3 pb-10 sm:flex sm:flex-row-reverse sm:px-6"> <!-- Botones -->
                             <!-- <button type="button" class="inline-flex w-full justify-center rounded-md border border-transparent bg-red-600 px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2 sm:ml-3 sm:w-auto sm:text-sm">Deactivate</button> -->
                             <button v-if="idiom == 'English'" type="button" class="mt-3 inline-flex w-full justify-center rounded-md border border-gray-300 bg-blue-400 px-4 py-2 text-base font-medium text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 sm:mt-0 sm:ml-3 sm:w-auto sm:text-sm" v-on:click="accept" >Accept</button>
-                            <button v-else type="button" class="mt-3 inline-flex w-full justify-center rounded-md border border-gray-300 bg-blue-400 px-4 py-2 text-base font-medium text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 sm:mt-0 sm:ml-3 sm:w-auto sm:text-sm" v-on:click="test" >Aceptar</button>
+                            <button v-else type="button" class="mt-3 inline-flex w-full justify-center rounded-md border border-gray-300 bg-blue-400 px-4 py-2 text-base font-medium text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 sm:mt-0 sm:ml-3 sm:w-auto sm:text-sm" v-on:click="accept" >Aceptar</button>
                         </div>
                     </div>
                 </div>
@@ -164,12 +164,12 @@ export default {
         console.log(this.pokemon.length);
     },
     methods: {
-        accept() {
-            this.isHidden = !this.isHidden
+        // accept() {
+        //     this.isHidden = !this.isHidden
 
-            console.log({opciones: this.options});
-        },
-        test() {
+        //     console.log({opciones: this.options});
+        // },
+        accept() {
             let total = []
             // Comprobamos que al menos ha marcado alguna generacion
             this.gens.filter(item => item == true)
@@ -181,6 +181,7 @@ export default {
             if (this.mega) total = total.concat(gMegas) 
             
             if (total.length == 0) return this.errorMsg = '100'
+            if (this.numPok <= 0 ) return this.errorMsg = '101'
 
             // Generamos los pokemons segun el numero introducido
             while (this.options.generate.length < this.numPok) {
@@ -189,7 +190,11 @@ export default {
                 this.options.generate.push(total[random])
             }
 
+            this.isHidden = !this.isHidden
+
             console.table(this.options.generate);
+
+            this.$emit("getData", this.options.generate)
         }
 
     }
